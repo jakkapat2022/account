@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.navbar {
+    background-color: #0746cf;
+}
+
+.table_revenue {
+    outline: green solid 1px;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+}
+
+.table_revenue h4 {
+    background-color: green;
+    padding: 0.5rem ;
+    color: white;
+    border-radius: 10px;
+    
+}
+
+.table_expenese {
+    outline: red solid 1px;
+    border-radius: 10px;
+}
+
+.table_expenese h4 {
+    background-color:red;
+    border-radius: 10px;
+    padding: 0.5rem ;
+    color: white;
+    
+}
+
+.table_acounting {
+    outline: #0746cf solid 1px;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+}
+
+.table_acounting h4 {
+    background-color: #0746cf;
+    padding: 0.5rem ;
+    color: white;
+    border-radius: 10px;
+    
+}
+
+.size-text{
+    font-size: 14px;
+}
